@@ -1,6 +1,6 @@
 import React from 'react'
 import  './portfolio.css'
-import IMG1 from '../../assests/pantry.jpg'
+import IMG1 from '../../assests/pantry2.jpg'
 import IMG2 from '../../assests/budget1.png'
 import IMG3 from '../../assests/weather.png'
 import IMG4 from '../../assests/quiz.png'
