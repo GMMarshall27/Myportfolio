@@ -28,7 +28,7 @@ const about = () => {
                             </article> 
                         </div>
                         <p>
-                           Hi I'm Garrett! I am a proud 2x dog dad, avid video gamer, and a potato chip connoisseur. As a recent graduate from the Georgia Tech Full Stack Coding Bootcamp, I'm looking for an opportunity to start my software engineering career. If you think I might be a good fit, send me a message! I'd be happy to put my skills to the test. 
+                           Hi, I'm Garrett! I am a proud 2x dog dad, avid video gamer, and a self-proclaimed potato chip connoisseur. As a recent graduate from the Georgia Tech Full Stack Coding Bootcamp, I'm looking for an opportunity to start my software engineering career. If you think I might be a good fit, send me a message! I'd be happy to put my skills to the test. 
 
                         </p>
 
